@@ -1,5 +1,0 @@
-Nombre
-Apellidos
-
-Edad
-DNI
